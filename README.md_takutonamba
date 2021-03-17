@@ -1,0 +1,8 @@
+# AIT_finalProject_milestone
+This contains all the related items for final project in Deep Learning class
+
+Title of project
+Music creation from midi files using machine learning
+
+Abstract
+This project aims to seek the potential of generating the music based on sounds, and to create the harmony that is similar to the input sounds with the machine learning. I will use different sounds, such as drums and pianos, and see how the machine learning will train itself to learn from them. I also hope to create the different harmony depending on the input sounds. 
