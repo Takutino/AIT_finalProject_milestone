@@ -10,7 +10,7 @@ I will use multiple sets of sounds from the datasets and see how the machine lea
 
 # What I have here
 AIT_project_milestone_takuto.ipynb : The jupyter notebook that completes all the works
-Project Work - final submission.pdf : A documentation
-FinalProject_takutonamba.pdf : Presentation slides
+FinalProjectDocumentation_takutonamba.pdf : A documentation
+FinalProjectPresentation_takutonamba.pdf : Presentation slides
 lstm_out_preds_final_takutonamba.mid : Final predicted output in midi
 lstm_out_targets_final_takutonamba.mid : Final target output in midi
